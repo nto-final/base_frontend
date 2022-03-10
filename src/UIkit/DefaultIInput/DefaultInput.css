@@ -1,0 +1,50 @@
+.inp-box {
+    background: #ECF1F7 ;
+    border-radius: 15px;
+    width: 250px;
+    height: 55px;
+    padding-left: 20px;
+
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eyeImg{
+    width: 25px;
+}
+
+.inp {
+    background: #ECF1F7;
+    border-radius: 15px;
+    width: 250px;
+    height: 55px;
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    border: none;
+}
+
+.input {
+
+    background: #ECF1F7 !important;
+    border: none;
+    height: 100%;
+    width: 80%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+img {
+    position: relative;
+    right: 0;
+    width: 38px;
+}
+*{
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+}
